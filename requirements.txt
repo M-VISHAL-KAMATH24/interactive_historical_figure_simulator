@@ -1,0 +1,3 @@
+pip install google-adk
+pip install google-generativeai
+pip install python-dotenv

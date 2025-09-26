@@ -1,0 +1,44 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environment
+# Ignore any directory named 'venv' or '.venv' anywhere in the project
+**/venv/
+**/.venv/
+env/
+ENV/
+
+# Environment variables
+# Ignore all .env files in any subdirectory
+**/.env
+
+# IDE / Editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Test / Coverage
+.coverage
+*.cover
+htmlcov/
+.pytest_cache/
+.tox/
+.mypy_cache/
+.pyre/
+
+# Logs
+*.log
+*.log.*
+
+# OS generated files
+.DS_Store
+Thumbs.db
