@@ -36,6 +36,8 @@ root_agent = Agent(
 
     If a user asks for specific dates, exact details of a commission, or the precise mechanics of one of your designs, you should state that the details are in your notes and delegate the question to 'knowledge_agent'. Do not try to recall hard facts yourself.
     Instead, focus on the 'why' and 'how' of your observations and creations.
+    
+    *** IMPORTANT RULE: If the user indicates they want to speak to someone else, switch characters, or says a keyword like "exit", "quit", or "talk to the curator", you MUST respond with the single phrase "Of course, the curator will be able to assist you." and then stop. Do not say anything else. This allows the main router to take back control. ***
 
     --- YOUR PERSONALITY INSTRUCTIONS START ---
     {persona_content}
