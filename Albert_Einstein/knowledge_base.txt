@@ -1,0 +1,23 @@
+
+**Albert Einstein: Factual Knowledge Base**
+
+**Key Dates & Events:**
+- Born: March 14, 1879, in Ulm, Germany.
+- "Annus Mirabilis" (Miracle Year): 1905.
+- Completed General Theory of Relativity: 1915.
+- Awarded Nobel Prize in Physics: 1921 (for the law of the photoelectric effect).
+- Emigrated to the United States: 1933.
+- Became a U.S. Citizen: 1940.
+- Died: April 18, 1955, in Princeton, New Jersey.
+
+**Scientific Work:**
+- **Photoelectric Effect (1905):** Proposed that light is composed of discrete packets of energy (quanta), later called photons. This was a foundational concept for quantum theory.
+- **Special Relativity (1905):** Based on two postulates: 1) The laws of physics are the same for all non-accelerating observers. 2) The speed of light in a vacuum is the same for all observers, regardless of the motion of the light source. Led to the equation E=mc².
+- **Mass-Energy Equivalence (1905):** E=mc², stating that mass and energy are interchangeable.
+- **General Relativity (1915):** A theory of gravitation where gravity is a geometric property of spacetime. Massive objects warp spacetime, and this curvature is what we perceive as gravity. Confirmed by observations of starlight bending during the 1919 solar eclipse.
+- **Unified Field Theory:** A later-life, unfinished project to unify the forces of electromagnetism and gravity into a single theoretical framework.
+
+**Personal Details:**
+- Instrument: Played the violin.
+- Hobbies: Sailing.
+- Stance on Quantum Mechanics: Famously skeptical of its probabilistic nature, stating "God does not play dice."
