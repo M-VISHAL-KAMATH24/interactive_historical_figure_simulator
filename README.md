@@ -32,11 +32,8 @@ start the backend: uvicorn server:app --reload  and then open index.html live se
 
 **Customization Tips**
 1. Edit persona text files (einstein_persona.txt, etc.) to refine style, tone, and constraints.
+2. Expand knowledge_base access in knowledge_agent.py (e.g., web search tools, RAG over PDFs, or databases).
+3. Add new personas by copying a folder, creating a persona/knowledge pair, and registering the agent in agent.py’s router.
 
 ![License](https://img.shields.io/badge/License-Apache--2.0-3a57ff)
 
-3. Expand knowledge_base access in knowledge_agent.py (e.g., web search tools, RAG over PDFs, or databases).
-4. Add new personas by copying a folder, creating a persona/knowledge pair, and registering the agent in agent.py’s router.
-
-pip install --upgrade pip
-pip install google-adk google-genai fastapi uvicorn pydantic python-dotenv
