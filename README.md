@@ -24,9 +24,7 @@ py -m venv .venv
 pip install --upgrade pip
 pip install google-adk google-genai fastapi uvicorn pydantic python-dotenv
 
-# macOS / Linux
-python3 -m venv .venv
-source .venv/bin/activate
+
 
 start the backend: uvicorn server:app --reload  and then open index.html live server
 
